@@ -239,6 +239,9 @@ agentic-ai/
 | 5 | [Anthropic Academy)](https://anthropic.skilljar.com/)| Learn agent collaboration patterns | Pending |
 | 5 | [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)| Learn agent collaboration patterns | Pending |
 | 5 | [MCP for Beginners (by Microsoft)](https://github.com/microsoft/mcp-for-beginners)| Learn agent collaboration patterns | Pending |
+| 5 | [Anthropic Courses (on GitHub)](https://github.com/anthropics/courses)| Learn agent collaboration patterns | Pending |
+| 5 | [ Kaggle x Google 5-Day Gen AI Intensive](https://www.kaggle.com/learn-guide/5-day-genai)| Learn agent collaboration patterns | Pending |
+| 5 | [MCP for Beginners (by Microsoft)](https://github.com/microsoft/mcp-for-beginners)| Learn agent collaboration patterns | Pending |
 
 </details>
 
