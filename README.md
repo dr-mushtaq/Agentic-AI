@@ -262,7 +262,7 @@ agentic-ai/
 
 | No. | Repository | Description | Status |
 |---|---|---|---|
-| 1 | Awesome LLM Apps | Examples of LLM-powered applications | Pending |
+| 1 | [Learn Agentic AI ](https://www.kaggle.com/learn-guide/5-day-genai) | Examples of LLM-powered applications | Pending |
 | 2 | LangChain Templates | Templates for agent and RAG workflows | Pending |
 | 3 | Agent Framework Examples | Practical agent implementations | Pending |
 | 4 | RAG Examples | Retrieval-based LLM examples | Pending |
