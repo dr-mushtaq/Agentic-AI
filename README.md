@@ -236,6 +236,9 @@ agentic-ai/
 | 5 | [UC Berkeley Advanced LLM Agents MOOC](https://llmagents-learning.org/sp25)| Learn agent collaboration patterns | Pending |
 | 5 | [Kaggle x Google 5-Day AI Agents Intensive](https://www.kaggle.com/learn-guide/5-day-agents)| Learn agent collaboration patterns | Pending |
 | 5 | [Introduction to LangGraph (LangChain Academy)](https://academy.langchain.com/courses/intro-to-langgraph)| Learn agent collaboration patterns | Pending |
+| 5 | [Anthropic Academy)](https://anthropic.skilljar.com/)| Learn agent collaboration patterns | Pending |
+| 5 | [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)| Learn agent collaboration patterns | Pending |
+| 5 | [MCP for Beginners (by Microsoft)](https://github.com/microsoft/mcp-for-beginners)| Learn agent collaboration patterns | Pending |
 
 </details>
 
