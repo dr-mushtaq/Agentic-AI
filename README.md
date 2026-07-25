@@ -230,10 +230,12 @@ agentic-ai/
 | No. | Title / Link | Description | Status |
 |---|---|---|---|
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
-| 2 | Prompt Engineering for Agents | Learn prompts, roles, and instructions | Pending |
-| 3 | RAG for Beginners | Retrieval-augmented generation explained | Pending |
-| 4 | Tool Calling with LLMs | Learn how LLMs use external tools | Pending |
-| 5 | Multi-Agent Systems | Learn agent collaboration patterns | Pending |
+| 2 | [AI Agents for Beginners (by Microsoft)](https://github.com/microsoft/ai-agents-for-beginners) | Learn prompts, roles, and instructions | Pending |
+| 3 | [Agentic AI (by Andrew Ng)](https://www.deeplearning.ai/courses/agentic-ai) | Retrieval-augmented generation explained | Pending |
+| 4 | [UC Berkeley LLM Agents MOOC](https://llmagents-learning.org/f24) | Learn how LLMs use external tools | Pending |
+| 5 | [UC Berkeley Advanced LLM Agents MOOC](https://llmagents-learning.org/sp25)| Learn agent collaboration patterns | Pending |
+| 5 | [Kaggle x Google 5-Day AI Agents Intensive](https://www.kaggle.com/learn-guide/5-day-agents)| Learn agent collaboration patterns | Pending |
+| 5 | [Introduction to LangGraph (LangChain Academy)](https://academy.langchain.com/courses/intro-to-langgraph)| Learn agent collaboration patterns | Pending |
 
 </details>
 
