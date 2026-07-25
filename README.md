@@ -229,7 +229,7 @@ agentic-ai/
 
 | No. | Title / Link | Description | Status |
 |---|---|---|---|
-| 1 | Agentic AI Basics | Beginner-friendly introduction to agents | Pending |
+| 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
 | 2 | Prompt Engineering for Agents | Learn prompts, roles, and instructions | Pending |
 | 3 | RAG for Beginners | Retrieval-augmented generation explained | Pending |
 | 4 | Tool Calling with LLMs | Learn how LLMs use external tools | Pending |
