@@ -259,6 +259,15 @@ agentic-ai/
 </details>
 
 <details>
+<summary><h2>Important YouTube Channel</h2></summary>
+
+| No. | Website | Description | Status |
+|---|---|---|---|
+| 1 | [Complete Agentic AI Course ](https://www.youtube.com/watch?v=Oluix1It7Xg)| Learning path for AI and LLM development | Pending |
+
+</details>
+
+<details>
 <summary><h2>Road Map</h2></summary>
 
 | No. | Website | Description | Status |
