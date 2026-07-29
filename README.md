@@ -195,7 +195,7 @@ agentic-ai/
 
 | No. | Project | Description | Code |
 |---|---|---|---|
-| 1 | Simple Tool-Using Agent | An agent that answers questions and calls a calculator/tool when needed | --- |
+| 1 | [Building a Multi-Agent System Using MCP](https://amanxai.com/2026/07/29/building-a-multi-agent-system-using-mcp/?fbclid=IwY2xjawTWr7VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeYtcgz0LcpK9d8QFthJ9zYLtHRNLaXRNIbmM5U3SMupMFfltes30GF7kUW7U_aem__JRywGDETlvM2D8I292SNw) | An agent that answers questions and calls a calculator/tool when needed | --- |
 | 2 | Research Assistant Agent | Searches documents and prepares short summaries | --- |
 | 3 | Document Q&A Agent | Answers questions from PDFs or notes using RAG | --- |
 | 4 | Email Drafting Agent | Creates email drafts based on user instructions | --- |
