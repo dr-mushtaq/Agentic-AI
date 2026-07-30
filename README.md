@@ -273,6 +273,7 @@ agentic-ai/
 | No. | Website | Description | Status |
 |---|---|---|---|
 | 1 | [Roadmap to Becoming an Agentic AI Engineer](https://amanxai.com/2026/07/27/roadmap-to-becoming-an-agentic-ai-engineer/?fbclid=IwY2xjawTUCUlleHRuA2FlbQIxMQBicmlkETE4all1T0toT0lINGN2Q3Nwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvuHWqgoyjf1kJ_tlE2ZXCvOE0-8dWZ102Q20Nw3isJ3tL5bP7J0GPR3KgNP_aem_bIGsNoNbia5RqIwPL7ffAA) | Learning path for AI and LLM development | Pending |
+| 2 | [Building AI Agents](https://docs.google.com/document/u/0/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic) | Learning path for AI and LLM development | Pending |
 
 </details>
 
