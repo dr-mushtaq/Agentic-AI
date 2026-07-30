@@ -278,6 +278,14 @@ agentic-ai/
 </details>
 
 <details>
+<summary><h2>Github</h2></summary>
+
+| No. | Website | Description | Status |
+|---|---|---|---|
+| 1 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Learning path for AI and LLM development | Pending |
+</details>
+
+<details>
 <summary><h2>GitHub Repositories</h2></summary>
 
 | No. | Repository | Description | Status |
