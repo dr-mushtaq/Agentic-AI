@@ -277,13 +277,6 @@ agentic-ai/
 
 </details>
 
-<details>
-<summary><h2>Github</h2></summary>
-
-| No. | Website | Description | Status |
-|---|---|---|---|
-| 1 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Learning path for AI and LLM development | Pending |
-</details>
 
 <details>
 <summary><h2>GitHub Repositories</h2></summary>
@@ -291,7 +284,8 @@ agentic-ai/
 | No. | Repository | Description | Status |
 |---|---|---|---|
 | 1 | [Learn Agentic AI ](https://www.kaggle.com/learn-guide/5-day-genai) | Examples of LLM-powered applications | Pending |
-| 2 | LangChain Templates | Templates for agent and RAG workflows | Pending |
+| 2 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Learning path for AI and LLM development | Pending |
+| 2 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Templates for agent and RAG workflows | Pending |
 | 3 | Agent Framework Examples | Practical agent implementations | Pending |
 | 4 | RAG Examples | Retrieval-based LLM examples | Pending |
 | 5 | Multi-Agent Examples | Multi-agent collaboration projects | Pending |
