@@ -264,6 +264,8 @@ agentic-ai/
 | No. | Website | Description | Status |
 |---|---|---|---|
 | 1 | [Complete Agentic AI Course ](https://www.youtube.com/watch?v=Oluix1It7Xg)| Learning path for AI and LLM development | Pending |
+| 2 | [DSwithBappy](https://www.youtube.com/@dswithbappy/playlists)| Learning path for AI and LLM development | Pending |
+
 
 </details>
 
