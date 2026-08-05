@@ -56,3 +56,87 @@ Ultimate guide for Building AI Agents.
 4. Vector Databases from Embeddings to Apps: https://lnkd.in/gm9HR6_2
 5. Agent Memory: https://lnkd.in/gNFpC542
 6. Building and Evaluating RAG apps: https://lnkd.in/g2qC9-mh
+
+
+
+If you want to become world-class with AI agents,
+
+then watch these 10 videos (save now):
+
+1 Deep Dive into LLMs like ChatGPT (by Andrej Karpathy)
+
+↳ Explains full LLM training stack, the foundation agent builders need
+
+🔗 youtube.com/watch?v=7xT…
+
+—
+
+2 AI Agents for Beginners (by Microsoft)
+
+↳ Microsoft's agent curriculum in one video
+
+🔗 youtube.com/watch?v=OhI…
+
+—
+
+3 LangGraph Complete Course for Beginners (by freeCodeCamp)
+
+↳ Builds agents from scratch
+
+🔗 youtube.com/watch?v=jGg…
+
+—
+
+4 GenAI Essentials Full Course (by freeCodeCamp)
+
+↳ Covers the entire GenAI lifecycle
+
+🔗 youtube.com/watch?v=nJ2…
+
+—
+
+5 Build n8n AI Agents (by Nate Herk)
+
+↳ Teaches you no-code agent builds & multi-agent architectures
+
+🔗 youtube.com/watch?v=Ey1…
+
+—
+
+6 Complete Agentic AI Course (by Krish Naik)
+
+↳ Teaches LangChain, LangGraph, RAG, guardrails & evals
+
+🔗 youtube.com/watch?v=rV3…
+
+—
+
+7 Agentic AI Crash Course using LangChain (by CampusX)
+
+↳ Theory of generative & agentic AI
+
+🔗 youtube.com/watch?v=D74…
+
+—
+
+8 AI Agents for Beginners (by KodeKloud)
+
+↳ Builds agent personalities from scratch
+
+🔗 youtube.com/watch?v=MZh…
+
+—
+
+9 Generative AI Full Course (by freeCodeCamp)
+
+↳ GenAI & agent courses in one playlist
+
+🔗 youtube.com/playlist
+
+—
+
+10 Master Agentic AI
+
+↳ Condenses current agent concepts & tooling into 2 hours
+
+🔗 youtube.com/watch?v=EsT…
