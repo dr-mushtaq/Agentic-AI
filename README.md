@@ -281,6 +281,15 @@ agentic-ai/
 
 </details>
 
+<details>
+<summary><h2>Projects</h2></summary>
+
+| No. | Website | Description | Status |
+|---|---|---|---|
+| 1 | [Built an AI Agent with MCP and Python](https://amanxai.com/2026/08/26/i-built-an-ai-agent-with-mcp-and-python-heres-how/?fbclid=IwY2xjawT7S7RwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5QkxS4pZK-7MjAaNhCmklv1B8q9vTLo19l6MGJZoARClpDUtYUO1HNQFeWVA_aem_VFY-UM-ddDui-v_GqR_LdA) | Learning path for AI and LLM development | Pending |
+
+</details>
+
 
 <details>
 <summary><h2>GitHub Repositories</h2></summary>
