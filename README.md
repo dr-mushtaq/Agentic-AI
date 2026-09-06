@@ -268,6 +268,7 @@ agentic-ai/
 | 1 | [Complete Agentic AI Course ](https://www.youtube.com/watch?v=Oluix1It7Xg)| Learning path for AI and LLM development | Pending |
 | 2 | [DSwithBappy](https://www.youtube.com/@dswithbappy/playlists)| Learning path for AI and LLM development | Pending |
 | 3 | [IBM Technology](https://www.youtube.com/@IBMTechnology/playlists)| Learning path for AI and LLM development | Pending |
+| 4 | [learningcurve](https://www.youtube.com/@learningcurveai)| Learning path for AI and LLM development | Pending |
 
 
 </details>
