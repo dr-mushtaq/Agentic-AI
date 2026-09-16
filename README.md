@@ -271,6 +271,7 @@ agentic-ai/
 | 2 | [DSwithBappy](https://www.youtube.com/@dswithbappy/playlists)| Learning path for AI and LLM development | Pending |
 | 3 | [IBM Technology](https://www.youtube.com/@IBMTechnology/playlists)| Learning path for AI and LLM development | Pending |
 | 4 | [learningcurve](https://www.youtube.com/@learningcurveai)| Learning path for AI and LLM development | Pending |
+| 4 | [Agentic Eval Workshop ](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5)| Learning path for AI and LLM development | Pending |
 
 
 </details>
@@ -283,6 +284,7 @@ agentic-ai/
 | 1 | [Roadmap to Becoming an Agentic AI Engineer](https://amanxai.com/2026/07/27/roadmap-to-becoming-an-agentic-ai-engineer/?fbclid=IwY2xjawTUCUlleHRuA2FlbQIxMQBicmlkETE4all1T0toT0lINGN2Q3Nwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvuHWqgoyjf1kJ_tlE2ZXCvOE0-8dWZ102Q20Nw3isJ3tL5bP7J0GPR3KgNP_aem_bIGsNoNbia5RqIwPL7ffAA) | Learning path for AI and LLM development | Pending |
 | 2 | [Building AI Agents](https://docs.google.com/document/u/0/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic) | Learning path for AI and LLM development | Pending |
 | 3 | [The Learning Resources I’d Follow to Go From Python to GenAI](https://amanxai.com/2026/08/24/the-learning-resources-id-follow-to-go-from-python-to-genai/?fbclid=IwY2xjawT4q1VwZG9mAWV4dG4DYWVtAjExAGJyaWQRMVhtQlVkd0hIaXE3MFZLN1VzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegQ8TAwehYSASs5DB9Cz9c3iolsmI5zVPfG1ii83rhvdvehvQUdy6q0bYzLU_aem_PE6SGfDeQeaZWgh3zOsiZQ) | Learning path for AI and LLM development | Pending |
+| 2 | [The Roadmap to Mastering Voice Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/?fbclid=IwY2xjawUXqu9wZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4Oxbxs34Wd-ZZ47SWMCRkdGwqAkoPXI3RHmU0L2vkHfSIkhOkDhiZqFyaqUw_aem_uUzZ8waaire_NcqDbLgKOQ) | Learning path for AI and LLM development | Pending |
 
 </details>
 
