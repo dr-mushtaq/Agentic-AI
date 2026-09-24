@@ -231,6 +231,7 @@ agentic-ai/
 |---|---|---|---|
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
 | 1 | [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) | Beginner-friendly introduction to agents | Pending |
+| 1 | [ Agent Skills](https://www.deeplearning.ai/courses/agent-skills-with-anthropic) | Learn how to build reusable skills that agents can load when needed. | Pending |
 | 1 | [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic) | Understand how MCP connects AI applications with tools, data, and external context. | Pending |
 | 2 | [AI Agents for Beginners (by Microsoft)](https://github.com/microsoft/ai-agents-for-beginners) | Learn prompts, roles, and instructions | Pending |
 | 3 | [Agentic AI (by Andrew Ng)](https://www.deeplearning.ai/courses/agentic-ai) | Learn the fundamentals of how agents plan, use tools, reason, and evaluate their work. | Pending |
