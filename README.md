@@ -230,6 +230,7 @@ agentic-ai/
 | No. | Title / Link | Description | Status |
 |---|---|---|---|
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
+| 1 | [Interactive Agents with Generative UI](https://www.deeplearning.ai/courses/build-interactive-agents-with-generative-ui) | Learn how agents can generate interactive interfaces alongside their responses. | Pending |
 | 1 | [Building AI Browser Agents](https://www.deeplearning.ai/courses/building-ai-browser-agents) | Explore how agents can navigate and interact with the web. | Pending |
 | 1 | [Building & Evaluating Data Agents](https://www.deeplearning.ai/courses/building-and-evaluating-data-agents) | Build agents that can work with databases and answer questions using data. | Pending |
 | 1 | [Long-Term Agentic Memory With LangGraph](https://www.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph) | Explore how agents can retain and use information beyond a single context windows | Pending |
