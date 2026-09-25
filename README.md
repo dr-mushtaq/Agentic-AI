@@ -231,6 +231,7 @@ agentic-ai/
 |---|---|---|---|
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
 | 1 | [Long-Term Agentic Memory With LangGraph](https://www.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph) | Explore how agents can retain and use information beyond a single context windows | Pending |
+| 1 | [Building Adaptive AI Agents](https://www.deeplearning.ai/courses/building-adaptive-ai-agents) | Learn how agents can adapt to changing conditions and inputs. | Pending |
 | 1 | [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) | Beginner-friendly introduction to agents | Pending |
 | 1 | [ Agent Skills](https://www.deeplearning.ai/courses/agent-skills-with-anthropic) | Learn how to build reusable skills that agents can load when needed. | Pending |
 | 1 | [MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic) | Understand how MCP connects AI applications with tools, data, and external context. | Pending |
