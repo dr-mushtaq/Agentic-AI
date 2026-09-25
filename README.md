@@ -230,6 +230,8 @@ agentic-ai/
 | No. | Title / Link | Description | Status |
 |---|---|---|---|
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
+| 1 | [Evaluating AI Agents](https://www.deeplearning.ai/courses/evaluating-ai-agents) | Learn about tracing, evaluation, debugging, and analyzing agent failures. | Pending |
+| 1 | [A2A: The Agent2Agent Protocol](https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol) | Learn how AI agents can communicate and collaborate across systems. | Pending |
 | 1 | [ AI Coding Workflows: Cloud → Local](https://www.deeplearning.ai/courses/ai-coding-workflows-from-cloud-to-local) |Understand practical coding-agent workflows across local and cloud environments. | Pending |
 | 1 | [AI Agents for Image and Video Generation](https://www.deeplearning.ai/courses/ai-agents-for-image-and-video-generation) |Build multimodal agent workflows for image and video generation. | Pending |
 | 1 | [Interactive Agents with Generative UI](https://www.deeplearning.ai/courses/build-interactive-agents-with-generative-ui) | Learn how agents can generate interactive interfaces alongside their responses. | Pending |
