@@ -269,6 +269,7 @@ agentic-ai/
 | No. | Website | Description | Status |
 |---|---|---|---|
 | 1 | Roadmap.sh AI / LLM Roadmaps | Learning path for AI and LLM development | Pending |
+| 2 | [What is agentic AI?](https://www.ibm.com/think/topics/agentic-ai) | Practice machine learning problems | Pending |
 | 2 | Deep-ML | Practice machine learning problems | Pending |
 | 3 | Prompt Libraries | Explore reusable prompts and templates | Pending |
 | 4 | Documentation of Agent Frameworks | Learn tools directly from official docs | Pending |
