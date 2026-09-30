@@ -188,7 +188,7 @@ A full worked project: turning customer service transcripts into SQL calls that 
 
 Do this: Build one tool-using mini-agent by the end of this week. Something small, a weather lookup agent is fine.
 
-Week 3: Memory
+# Week 3: Memory
 Right now, your agent forgets everything the second the session ends.
 
 Week 3 fixes that with memory architecture:
@@ -199,13 +199,9 @@ Week 3: Agent Memory, Building Memory-Aware Agents
 
 Free short course from DeepLearning.AI, built with Oracle. Teaches memory-first architecture, a Memory Manager, and write-back loops so your agent improves across sessions instead of starting from zero every time.
 
-Link: deeplearning.ai/courses/agent-memory-building-memory-aware-agents
+[Link](https://www.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms)
 
 Time: About 2 hours
-
-
-
-
 What this teaches you:
 
 Why stateless agents break down on any task longer than one session, and what “memory-first architecture” means in practice
