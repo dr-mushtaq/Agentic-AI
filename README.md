@@ -300,6 +300,9 @@ agentic-ai/
 | 2 | [Building AI Agents](https://docs.google.com/document/u/0/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic) | Learning path for AI and LLM development | Pending |
 | 3 | [The Learning Resources I’d Follow to Go From Python to GenAI](https://amanxai.com/2026/08/24/the-learning-resources-id-follow-to-go-from-python-to-genai/?fbclid=IwY2xjawT4q1VwZG9mAWV4dG4DYWVtAjExAGJyaWQRMVhtQlVkd0hIaXE3MFZLN1VzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegQ8TAwehYSASs5DB9Cz9c3iolsmI5zVPfG1ii83rhvdvehvQUdy6q0bYzLU_aem_PE6SGfDeQeaZWgh3zOsiZQ) | Learning path for AI and LLM development | Pending |
 | 2 | [The Roadmap to Mastering Voice Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/?fbclid=IwY2xjawUXqu9wZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4Oxbxs34Wd-ZZ47SWMCRkdGwqAkoPXI3RHmU0L2vkHfSIkhOkDhiZqFyaqUw_aem_uUzZ8waaire_NcqDbLgKOQ) | Learning path for AI and LLM development | Pending |
+| 2 | [How to Master Agentic AI (Full Course)](https://theblueprintai.substack.com/p/how-to-master-agentic-ai-full-course?utm_source=share&utm_medium=android&r=f2squ) | Learning path for AI and LLM development | Pending |
+| 2 | [10 GitHub repositories to learn the Agentic AI concepts you need before 2027](https://www.reddit.com/r/letscodecommunity/comments/1wtivt6/10_github_repositories_to_learn_the_agentic_ai/) | Learning path for AI and LLM development | Pending |
+
 
 </details>
 
