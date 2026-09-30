@@ -233,12 +233,9 @@ Real workflows split into roles: A planner, a researcher, a writer, a reviewer, 
 
 Free short course from DeepLearning.AI Teaches how to design a team of role-based agents that collaborate on one task, using natural language to define each agent’s job.
 
-Link: deeplearning.ai/courses/multi-ai-agent-systems-with-crewai
+[Link](https://www.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai)
 
 Time: About 2 hours
-
-
-
 
 What this teaches you:
 
