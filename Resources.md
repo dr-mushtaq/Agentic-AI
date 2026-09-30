@@ -159,7 +159,7 @@ What you need to pass the free Unit 1 quiz and earn the Fundamentals of Agents c
 
 Do this: Complete Unit 1 only this week. Skip the frameworks for now.
 
-Week 2: Tools
+# Week 2: Tools
 An agent without tools is just a chatbot with extra steps.
 
 This week is about function calling: how an LLM decides which tool to call and with what parameters.
@@ -168,12 +168,9 @@ Week 2: Function-Calling and Data Extraction with LLMs
 
 Free short course from DeepLearning.AI. Teaches how LLMs generate structured tool calls and use them to extend a chatbot into something that can take real actions.
 
-Link: deeplearning.ai/courses/function-calling-and-data-extraction-with-llms
+[Link:](https://www.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms) 
 
 Time: About 1.5 hours
-
-
-
 
 What this teaches you:
 
