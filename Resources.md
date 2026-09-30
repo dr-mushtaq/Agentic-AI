@@ -253,7 +253,7 @@ Six full worked examples: resume tailoring, technical writing, customer support,
 
 Do this: Turn your single mini-agent into a small team of two or three agents, each with a distinct role.
 
-Week 5: Evals
+# Week 5: Evals
 This is the week almost everyone skips, and it’s the reason most homemade agents quietly fail in production.
 You need a way to measure whether your agent is getting better or just looking busy.
 
@@ -261,12 +261,9 @@ Week 5: Evaluating AI Agents
 
 Free short course from DeepLearning. AI, built with Arize AI. Teaches observability, tracing agent steps, and choosing the right evaluator (code-based vs. LLM-as-a-judge) for each part of your agent.
 
-Link: deeplearning.ai/courses/evaluating-ai-agents
+[Link](https://www.deeplearning.ai/courses/evaluating-ai-agents)
 
 Time: About 1.5 hours
-
-
-
 
 What this teaches you:
 
@@ -284,7 +281,7 @@ How to run structured experiments that isolate whether a fix belongs in the prom
 
 Do this: Set up one eval for your Week 4 multi-agent team. Even a simple pass/fail check counts.
 
-Week 6: Production
+# Week 6: Production
 Last stop. Everything you’ve built so far has lived in a notebook.
 This week covers the parts that only matter once real users touch your agent:
 Error handling, retry logic, rate limits, and structured tool use at scale.
@@ -293,7 +290,7 @@ Week 6: Building with the Claude API
 
 Free, from Claude Academy (Anthropic). 67 lessons across 7 modules covering tool use, RAG, agent architecture, and production patterns like error handling and rate limiting.
 
-Link: academy.claude.com/courses/building-with-the-claude-api
+[Link](https://academy.claude.com/courses/building-with-the-claude-api)
 
 Time: about 9 hours total, though the production-patterns modules alone take about 1.5 hours
 
