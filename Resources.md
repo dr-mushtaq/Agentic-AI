@@ -132,11 +132,11 @@ Before touching any framework, you need the mental model:
 
 The Thought → Action → Observation loop that separates an agent from a chatbot.
 
-Week 1: Hugging Face Agents Course
+# Week 1: Hugging Face Agents Course
 
 Free, self-paced, from beginner to expert. Covers the agent loop, tools as plain functions, and ends with two free certificates.
 
-Link: huggingface.co/learn/agents-course/unit0/introduction
+[Link:]( huggingface.co/learn/agents-course/unit0/introduction)
 
 Time: About 3 to 4 hours for Unit 1 alone
 
